@@ -1,6 +1,7 @@
 ## Function makeCacheMatrix can be passed an initial matrix to set matrix value or initiated with an empty
 ## value to create an object list of 4 functions, set, get, getinv, setinv.
 
+
 ## List of 4 functions includes the following... 
 ## set(y) will reset the value of the cached matrix to whatever matrix is passed to this comment
 ## get() returns cached matrix.  if "NULL" then run set() passing a matrix, then run cacheSolve()
